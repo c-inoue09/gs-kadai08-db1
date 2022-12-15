@@ -63,7 +63,7 @@ if($status === false){
 }else{
   //５．index.php,へリダイレクト
 
-header('Location: journalist_register.php');
+header('Location: index.php');
 
 }
 ?>
